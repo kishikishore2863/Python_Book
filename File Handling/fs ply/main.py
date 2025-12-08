@@ -1,5 +1,9 @@
-f = open('demo.txt','r')
-# print('Name of the file is :',f.name)
-# print(f.mode)
+f = open('demo.txt','r+')
+
+for i in range(3):
+    print(f.readline(),end="")
+
+
+f.write(" hello from c")
 
 f.close()

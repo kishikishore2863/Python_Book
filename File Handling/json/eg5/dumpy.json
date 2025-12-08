@@ -1,0 +1,35 @@
+{
+  "name": "kishikihsore",
+  "age": 23,
+  "email": "kishore@example.com",
+  "active": true,
+  "languages": [
+    "c",
+    "c++",
+    "java",
+    "python",
+    "javascript"
+  ],
+  "skills": {
+    "backend": ["Spring Boot", "Node.js"],
+    "frontend": ["React", "Tailwind CSS"],
+    "database": ["MySQL", "MongoDB"]
+  },
+  "address": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "projects": [
+    {
+      "title": "E-commerce API",
+      "tech": ["Spring Boot", "MySQL"],
+      "status": "In Progress"
+    },
+    {
+      "title": "Cyber Attack Detection System",
+      "tech": ["Python", "Machine Learning", "Streamlit"],
+      "status": "Completed"
+    }
+  ]
+}

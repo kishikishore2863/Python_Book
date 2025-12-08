@@ -1,0 +1,12 @@
+{
+  "kishore": {
+    "number": 1234567890,
+    "age": 23,
+    "address": {"line1": "xxx","line2": "yyy"}
+  },
+  "Molly": {
+    "number": 987654321,
+    "age": 21,
+    "address": {"line1": "xxx","line2": "uuuu"}
+  }
+}

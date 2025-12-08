@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "personal": {
+      "name": "Aarav Sharma",
+      "gender": "Male",
+      "dob": "1999-05-14",
+      "phone": "+91-9876543210",
+      "email": "aarav@company.com"
+    },
+    "address": {
+      "street": "12th Main, Indiranagar",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560038"
+    },
+    "job": {
+      "department": "IT",
+      "designation": "Software Engineer",
+      "joiningDate": "2022-08-10",
+      "employmentType": "Full-Time",
+      "managerId": 7
+    },
+    "salary": {
+      "ctc": 900000,
+      "basic": 45000,
+      "hra": 18000,
+      "bonus": 120000,
+      "currency": "INR"
+    },
+    "bank": {
+      "bankName": "HDFC",
+      "accountNumber": "XXXX4567",
+      "ifsc": "HDFC0001234"
+    },
+    "skills": ["Java", "Spring Boot", "MySQL", "Docker"],
+    "projects": [
+      {"name": "E-Commerce API", "role": "Backend Dev"},
+      {"name": "Payment Gateway", "role": "Lead Developer"}
+    ],
+    "performance": {
+      "rating": 4.5,
+      "lastAppraisal": "2024-03-20"
+    },
+    "status": "Active"
+  },
+
+  {
+    "id": 2,
+    "personal": {
+      "name": "Riya Verma",
+      "gender": "Female",
+      "dob": "1998-11-02",
+      "phone": "+91-9123456789",
+      "email": "riya@company.com"
+    },
+    "address": {
+      "street": "Rajouri Garden",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110027"
+    },
+    "job": {
+      "department": "HR",
+      "designation": "HR Manager",
+      "joiningDate": "2020-04-15",
+      "employmentType": "Full-Time",
+      "managerId": null
+    },
+    "salary": {
+      "ctc": 850000,
+      "basic": 42000,
+      "hra": 16000,
+      "bonus": 100000,
+      "currency": "INR"
+    },
+    "bank": {
+      "bankName": "ICICI",
+      "accountNumber": "XXXX9821",
+      "ifsc": "ICIC0005512"
+    },
+    "skills": ["Recruitment", "Payroll", "Employee Relations"],
+    "projects": [
+      {"name": "Campus Hiring Drive", "role": "Coordinator"}
+    ],
+    "performance": {
+      "rating": 4.2,
+      "lastAppraisal": "2024-04-01"
+    },
+    "status": "Active"
+  },
+
+  {
+    "id": 3,
+    "personal": {
+      "name": "Kunal Mehta",
+      "gender": "Male",
+      "dob": "1995-03-21",
+      "phone": "+91-9988776655",
+      "email": "kunal@company.com"
+    },
+    "address": {
+      "street": "Navrangpura",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "380009"
+    },
+    "job": {
+      "department": "Finance",
+      "designation": "Senior Accountant",
+      "joiningDate": "2019-07-01",
+      "employmentType": "Full-Time",
+      "managerId": 20
+    },
+    "salary": {
+      "ctc": 980000,
+      "basic": 48000,
+      "hra": 19000,
+      "bonus": 150000,
+      "currency": "INR"
+    },
+    "bank": {
+      "bankName": "SBI",
+      "accountNumber": "XXXX3344",
+      "ifsc": "SBIN0000456"
+    },
+    "skills": ["GST", "Auditing", "Financial Reporting"],
+    "projects": [
+      {"name": "Annual Budget 2024", "role": "Lead Accountant"}
+    ],
+    "performance": {
+      "rating": 4.7,
+      "lastAppraisal": "2024-02-02"
+    },
+    "status": "Active"
+  },
+
+  {
+    "id": 4,
+    "personal": {
+      "name": "Sneha Iyer",
+      "gender": "Female",
+      "dob": "2000-09-12",
+      "phone": "+91-9012345678",
+      "email": "sneha@company.com"
+    },
+    "address": {
+      "street": "Adyar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600020"
+    },
+    "job": {
+      "department": "Marketing",
+      "designation": "Digital Marketing Analyst",
+      "joiningDate": "2023-01-12",
+      "employmentType": "Full-Time",
+      "managerId": 35
+    },
+    "salary": {
+      "ctc": 650000,
+      "basic": 35000,
+      "hra": 14000,
+      "bonus": 80000,
+      "currency": "INR"
+    },
+    "bank": {
+      "bankName": "Axis Bank",
+      "accountNumber": "XXXX7788",
+      "ifsc": "UTIB0009087"
+    },
+    "skills": ["SEO", "Google Ads", "Analytics"],
+    "projects": [
+      {"name": "Product Launch Campaign", "role": "Campaign Analyst"}
+    ],
+    "performance": {
+      "rating": 4.1,
+      "lastAppraisal": "2024-05-10"
+    },
+    "status": "Active"
+  },
+
+  {
+    "id": 5,
+    "personal": {
+      "name": "Rahul Patil",
+      "gender": "Male",
+      "dob": "1993-06-18",
+      "phone": "+91-9090909090",
+      "email": "rahul@company.com"
+    },
+    "address": {
+      "street": "Baner Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411045"
+    },
+    "job": {
+      "department": "IT",
+      "designation": "DevOps Engineer",
+      "joiningDate": "2018-09-05",
+      "employmentType": "Full-Time",
+      "managerId": 23
+    },
+    "salary": {
+      "ctc": 1400000,
+      "basic": 70000,
+      "hra": 25000,
+      "bonus": 200000,
+      "currency": "INR"
+    },
+    "bank": {
+      "bankName": "Kotak Bank",
+      "accountNumber": "XXXX5544",
+      "ifsc": "KKBK0008899"
+    },
+    "skills": ["AWS", "Kubernetes", "CI/CD", "Linux"],
+    "projects": [
+      {"name": "Cloud Migration", "role": "Infrastructure Lead"}
+    ],
+    "performance": {
+      "rating": 4.9,
+      "lastAppraisal": "2024-01-15"
+    },
+    "status": "Active"
+  }
+]
