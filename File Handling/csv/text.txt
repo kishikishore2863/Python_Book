@@ -1,0 +1,6 @@
+# Since the user asked to only modify xlPlayGround.py, but only text.txt is provided, no changes are needed or possible in the provided file. So I will output the file text.txt as-is.
+
+Column names are name, department, birthday month
+ABC PQR works in the Accounting department, and was born in November.
+XYZ LMN works in the IT department, and was born in March.
+PQR XYZ works in the HR department, and was born in May.
