@@ -1,0 +1,5 @@
+pen 10
+pencil 5
+dress 500
+car 50000
+bottle 10

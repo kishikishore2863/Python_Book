@@ -1,0 +1,7 @@
+pen 10
+pencil 5
+dress 500
+car 50000
+bike
+slp
+bottle 10
