@@ -24,14 +24,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/unit3 el2/problem5/inventory.csv">
+        <entry key="/sensor data/sensor_reading.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/unit3 el2/student.csv">
+        <entry key="/unit3 el2/problem1/student.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/unit3 el2/problem5/inventory.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
