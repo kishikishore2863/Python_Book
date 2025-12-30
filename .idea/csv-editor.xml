@@ -10,6 +10,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/UNIT3/ClassEl/Movie Assignment Data for Class.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/UNIT3/File Handling/csv/pandas_out.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/UNIT3/File Handling/csv/sorted.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
