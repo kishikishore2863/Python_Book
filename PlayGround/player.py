@@ -1,0 +1,5 @@
+n = int(input())
+li = input().split(" ")
+print(li)
+li= list(map(int,li))
+print(li)
