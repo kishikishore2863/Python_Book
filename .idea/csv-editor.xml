@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/UNIT4/webscripting/cpcb_repository_table.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
