@@ -6,6 +6,7 @@ res = requests.get("https://www.reddit.com/")
 res = requests.get("https://www.reddit.com/")
 soup = BeautifulSoup(res.text,'html.parser')
 # print(soup.find('a'))
+
 all_p =  soup.findAll('faceplate-screen-reader-content')
 for i in all_p:
     print(i)
