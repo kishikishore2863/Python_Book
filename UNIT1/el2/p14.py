@@ -3,3 +3,6 @@
 reverse_str = lambda s: s[::-1]
 
 print(reverse_str("kishore"))
+
+re = lambda s:s[::-1]
+print(re("king"))

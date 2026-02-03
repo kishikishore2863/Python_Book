@@ -14,5 +14,30 @@ def is_palindrome(s):
 
 
 # Example
-print(is_palindrome("racecar"))  # True
-print(is_palindrome("hello"))  # False
+# print(is_palindrome("racecar"))  # True
+# print(is_palindrome("hello"))  # False
+
+# def f(s):
+#     start=0
+#     end =len(s)-1
+#     while start<end:
+#         if s[start]!=s[end]:
+#             return False
+#         start = start+1
+#         end = end-1
+#
+#     return True
+#
+# print(f("hello"))
+
+def f1(s,start,end):
+    if start>=end:
+        return True
+
+    if s[start] !=s[end]:
+        return False
+
+    return f1(s,start+1,end-1)
+# s="hello"
+s="aaa"
+print(f1(s,0,len(s)-1))

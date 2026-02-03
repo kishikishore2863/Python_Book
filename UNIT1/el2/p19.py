@@ -2,8 +2,11 @@
 students = ["Kishore", "Rahul", "Sneha", "Meena"]
 marks = [89, 76, 92, 85]
 
+z = dict(zip(students,marks))
+print(z)
 # Pair students with marks using zip
 combined = list(zip(students, marks))
+
 
 # Find the student with highest score
 top_student = max(combined, key=lambda x: x[1])

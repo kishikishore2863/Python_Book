@@ -7,5 +7,8 @@ employee ={
     "james":35000
 }
 
-high_salary = { key:value  for key,value in employee.items() if value>50000}
-print(high_salary)
+# high_salary = { key:value  for key,value in employee.items() if value>50000}
+# print(high_salary)
+
+h={k:v for k,v in employee.items() if v>50000}
+print(h)

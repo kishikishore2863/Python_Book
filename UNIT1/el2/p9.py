@@ -7,3 +7,6 @@ for i in range(1,11):
         dict1[i] = "odd"
 print(dict1)
 
+di={i:"even" if i%2==0 else "odd" for i in range(1,11)}
+print(di)
+

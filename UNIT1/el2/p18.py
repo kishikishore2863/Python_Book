@@ -5,3 +5,6 @@ marks = [89,76,92,85]
 result = list(zip(student,marks))
 
 print(result)
+
+t = tuple([(i,j) for i,j in zip(student,marks)])
+print(t)
