@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/UNIT2/unit-2EL/practice/demo.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/UNIT3/ClassEl/Movie Assignment Data for Class.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/UNIT3/File Handling/csv/data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
